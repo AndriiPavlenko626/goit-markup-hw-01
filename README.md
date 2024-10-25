@@ -15,3 +15,4 @@ Cкелет HTML-документа: doctype, html, head, body
 Валідація HTML-документа
 Інструменти розробника: Chrome DevTools. Вкладки Elements, Console, Sources, Network.
 🍫 Посилання на макет
+https://www.figma.com/design/SHNrA7r9RBXLqDUVYZjL1g/Simply-Chocolate?node-id=0-1&node-type=canvas&t=Vq1GZGkCpLwi0BYw-0
